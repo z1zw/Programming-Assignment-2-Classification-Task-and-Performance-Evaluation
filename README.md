@@ -1,7 +1,5 @@
 # 🧠 Brain Tumor MRI Classification (Kaggle Programming Assignment)
 
-This repository contains the code and experiment report for a brain tumor image classification assignment,  
-conducted as part of the Programming Assignment on **Kaggle**.
 
 🔗 **Kaggle Notebook Link:**  
 👉 [https://www.kaggle.com/code/firstbuildzw/programming-assignment](https://www.kaggle.com/code/firstbuildzw/programming-assignment)
